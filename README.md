@@ -1,1 +1,3 @@
 # STGNN
+
+ python main.py 
